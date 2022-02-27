@@ -1,0 +1,11 @@
+{
+  "name": "algorithmhomework",
+  "version": "1.0.0",
+  "description": "This is homework for learning algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wei Cen",
+  "license": "ISC"
+}
